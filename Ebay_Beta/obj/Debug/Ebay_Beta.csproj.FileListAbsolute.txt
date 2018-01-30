@@ -1,0 +1,16 @@
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\Ebay_Beta.exe.config
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\Ebay_Beta.exe
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\Ebay_Beta.pdb
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.Properties.Resources.resources
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.csproj.GenerateResource.Cache
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.csproj.CoreCompileInputs.cache
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.exe
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.pdb
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.Form1.resources
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.Properties.Main.resources
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.Properties.NewRoot.resources
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\CircularProgressBar.dll
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\WinFormAnimation.dll
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\CircularProgressBar.xml
+F:\vs project\Ebay_Beta\Ebay_Beta\bin\Debug\WinFormAnimation.xml
+F:\vs project\Ebay_Beta\Ebay_Beta\obj\Debug\Ebay_Beta.csprojResolveAssemblyReference.cache

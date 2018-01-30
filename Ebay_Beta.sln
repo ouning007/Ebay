@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebay_Beta", "Ebay_Beta\Ebay_Beta.csproj", "{EBFAC82E-1021-44F3-B06B-297AC7228B4E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ebay_Beta01", "C:\Users\dell\Desktop\Ebay_Beta01\Ebay_Beta01.vdproj", "{D102568E-8C43-46A5-AAF5-0406D01266D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFAC82E-1021-44F3-B06B-297AC7228B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFAC82E-1021-44F3-B06B-297AC7228B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFAC82E-1021-44F3-B06B-297AC7228B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFAC82E-1021-44F3-B06B-297AC7228B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D102568E-8C43-46A5-AAF5-0406D01266D6}.Debug|Any CPU.ActiveCfg = Debug
+		{D102568E-8C43-46A5-AAF5-0406D01266D6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAB5A60-99F4-440A-9DC2-9CC193FDFA96}
+	EndGlobalSection
+EndGlobal
